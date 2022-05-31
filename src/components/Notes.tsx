@@ -28,5 +28,4 @@ const Notes: React.FC<INotesProps> = ({ note, handleDelete }) => {
     </div>
   );
 };
-
 export default Notes;

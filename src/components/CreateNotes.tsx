@@ -78,5 +78,4 @@ const CreateNotes: React.FunctionComponent<ICreateNotesProps> = ({
     </>
   );
 };
-
 export default CreateNotes;
