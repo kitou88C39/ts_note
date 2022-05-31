@@ -12,5 +12,4 @@ const Header: React.FunctionComponent<IHeaderProps> = (props) => {
     </Navbar>
   );
 };
-
 export default Header;
